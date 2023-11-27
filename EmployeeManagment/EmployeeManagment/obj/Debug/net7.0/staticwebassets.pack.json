@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\Hamza.html",
+      "PackagePath": "staticwebassets\\Hamza.html"
+    },
+    {
+      "Id": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\Home.html",
+      "PackagePath": "staticwebassets\\Home.html"
+    },
+    {
+      "Id": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\index.htm",
+      "PackagePath": "staticwebassets\\index.htm"
+    },
+    {
+      "Id": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EmployeeManagment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EmployeeManagment.props",
+      "PackagePath": "build\\EmployeeManagment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EmployeeManagment.props",
+      "PackagePath": "buildMultiTargeting\\EmployeeManagment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EmployeeManagment.props",
+      "PackagePath": "buildTransitive\\EmployeeManagment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
