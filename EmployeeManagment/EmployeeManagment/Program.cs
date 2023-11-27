@@ -10,11 +10,13 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseFileServer();
+app.UseRouting();
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Product}/{action=myAction}/{id?}");
 
-app.UseMvcWithDefaultRoute();
-
-app.Run(async context =>
-{
-    await context.Response.WriteAsync("Hello world!");
-});
+//app.Run(async context =>
+//{
+//    await context.Response.WriteAsync("Hello world!");
+//});
 app.Run();
