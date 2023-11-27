@@ -1,10 +1,13 @@
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\net7.0\appsettings.json
+C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\net7.0\EmployeeManagment.staticwebassets.runtime.json
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\net7.0\EmployeeManagment.exe
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\net7.0\EmployeeManagment.deps.json
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\net7.0\EmployeeManagment.runtimeconfig.json
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\net7.0\EmployeeManagment.dll
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\net7.0\EmployeeManagment.pdb
+C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\net7.0\EmployeeManagment.csproj.AssemblyReference.cache
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\net7.0\EmployeeManagment.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\net7.0\EmployeeManagment.AssemblyInfoInputs.cache
@@ -19,12 +22,9 @@ C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\net7
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\net7.0\scopedcss\bundle\EmployeeManagment.styles.css
+C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\net7.0\EmployeeManagment.csproj.CopyComplete
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\net7.0\EmployeeManagment.dll
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\net7.0\refint\EmployeeManagment.dll
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\net7.0\EmployeeManagment.pdb
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\net7.0\EmployeeManagment.genruntimeconfig.cache
 C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\net7.0\ref\EmployeeManagment.dll
-C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\obj\Debug\net7.0\EmployeeManagment.csproj.CopyComplete
-C:\Users\hnouali\source\repos\EmployeeManagment\EmployeeManagment\bin\Debug\net7.0\EmployeeManagment.staticwebassets.runtime.json

@@ -1,24 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\Hamza.html",
-      "PackagePath": "staticwebassets\\Hamza.html"
-    },
-    {
-      "Id": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\Home.html",
-      "PackagePath": "staticwebassets\\Home.html"
-    },
-    {
       "Id": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
-    },
-    {
-      "Id": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\index.htm",
-      "PackagePath": "staticwebassets\\index.htm"
-    },
-    {
-      "Id": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EmployeeManagment.Microsoft.AspNetCore.StaticWebAssets.props",

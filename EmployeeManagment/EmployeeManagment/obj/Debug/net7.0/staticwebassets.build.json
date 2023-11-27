@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6ARcmUmoCNOpdVzT1A6tHTtPBZtUQf/tRa2v+1FVyLg=",
+  "Hash": "FEicylCQckJWSrOxEPQiwL2WtAMaPSB7dX4PqMlBhAc=",
   "Source": "EmployeeManagment",
   "BasePath": "_content/EmployeeManagment",
   "Mode": "Default",
@@ -17,40 +17,6 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\Hamza.html",
-      "SourceId": "EmployeeManagment",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\",
-      "BasePath": "_content/EmployeeManagment",
-      "RelativePath": "Hamza.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Hamza.html"
-    },
-    {
-      "Identity": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\Home.html",
-      "SourceId": "EmployeeManagment",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\",
-      "BasePath": "_content/EmployeeManagment",
-      "RelativePath": "Home.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Home.html"
-    },
-    {
       "Identity": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\images\\logo.png",
       "SourceId": "EmployeeManagment",
       "SourceType": "Discovered",
@@ -66,40 +32,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
-    },
-    {
-      "Identity": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\index.htm",
-      "SourceId": "EmployeeManagment",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\",
-      "BasePath": "_content/EmployeeManagment",
-      "RelativePath": "index.htm",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.htm"
-    },
-    {
-      "Identity": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\index.html",
-      "SourceId": "EmployeeManagment",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\hnouali\\source\\repos\\EmployeeManagment\\EmployeeManagment\\wwwroot\\",
-      "BasePath": "_content/EmployeeManagment",
-      "RelativePath": "index.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
     }
   ]
 }
