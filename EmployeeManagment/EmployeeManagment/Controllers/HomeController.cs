@@ -1,14 +1,12 @@
-﻿namespace EmployeeManagment.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace EmployeeManagment.Controllers
 {
-    public class HomeController
+    public class HomeController:Controller
     {
-        public string Details()
+        public ActionResult Index()
         {
-            return "Hello from MVC Application (Details Action Method)";
-        }
-        public string Index()
-        {
-            return "Hello from MVC Application (Index Action Method)";
+            return View();
         }
     }
 }

@@ -1,5 +1,9 @@
+using EmployeeManagment.Models;
+using EmployeeManagment.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddMvc(options => options.EnableEndpointRouting = false);
+builder.Services.AddSingleton<ICompanyRepository<Employee>,EmployeeRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -10,10 +14,7 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseFileServer();
-app.UseRouting();
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Product}/{action=myAction}/{id?}");
+app.UseMvcWithDefaultRoute();
 
 //app.Run(async context =>
 //{
